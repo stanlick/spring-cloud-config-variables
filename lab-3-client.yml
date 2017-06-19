@@ -4,6 +4,7 @@ lucky-word:
 
 ---
   spring
-    profiles:TEST
+    profiles
+      active:TEST
 lucky-word:
   Fetching words from [TEST] environment
