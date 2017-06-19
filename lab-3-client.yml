@@ -2,7 +2,7 @@
 lucky-word: Fetching words from [default] environment
 
 ---
-spring
-  profiles
-    active:test
+spring:
+  profiles:
+    active: test
 lucky-word: Fetching words from [test] environment
