@@ -1,11 +1,9 @@
 ---
 spring:
-  profiles:
-    active: default
+  profiles: default
 lucky-word: Fetching words from [default] environment
 
 ---
 spring:
-  profiles:
-    active: test
+  profiles: test
 lucky-word: Fetching words from [test] environment
