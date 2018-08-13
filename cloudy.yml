@@ -5,5 +5,5 @@ lucky-word: Fetching words from profile [default] GITHUB environment
 
 ---
 spring:
-  profiles: test
-lucky-word: Fetching words from profile [test] GITHUB environment
+  profiles: adjective
+words=reasonable,leaky,suspicious,ordinary,unlikely
