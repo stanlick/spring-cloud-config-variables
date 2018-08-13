@@ -1,9 +1,0 @@
----
-spring:
-  profiles: default
-lucky-word: Fetching words from profile [default] GITHUB environment
-
----
-spring:
-  profiles: adjective
-words=reasonable,leaky,suspicious,ordinary,unlikely
