@@ -1,9 +1,9 @@
 ---
 spring:
   profiles: default
-lucky-word: Fetching words from [default] environment
+lucky-word: Fetching words from profile [default] GITHUB environment
 
 ---
 spring:
   profiles: test
-lucky-word: Fetching words from [test] environment
+lucky-word: Fetching words from profile [test] GITHUB environment
