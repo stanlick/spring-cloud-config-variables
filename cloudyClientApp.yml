@@ -8,4 +8,4 @@ lucky:
 spring:
   profiles: super
 lucky: 
-  word: Fetching words from profile [super] GITHUB environment
+  word: Fetching words from profile [super] GITHUB environment!!!
