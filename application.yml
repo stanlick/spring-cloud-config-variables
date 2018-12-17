@@ -3,3 +3,5 @@
 ###  client:
 ###    serviceUrl:
 ###      defaultZone: http://localhost:8002/eureka/
+
+theGlobalProperty=All apps should see this global property
