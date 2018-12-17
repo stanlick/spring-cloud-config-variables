@@ -6,6 +6,12 @@ lucky:
 
 ---
 spring:
-  profiles: super
+  profiles: red
 lucky: 
-  word: Fetching words from profile [super] GITHUB environment!!!
+  wod: Today's word is anger.  Red can incite anger.
+
+---
+spring:
+  profiles: blue
+lucky: 
+  wod: Today's word is clouds.  Clouds float in the blue sky.
