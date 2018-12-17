@@ -1,17 +1,17 @@
 ---
 spring:
   profiles: default
-lucky:
-  word: Fetching words from profile [default] GITHUB environment!!!
+today:
+  wod: Today's word is nothing.  Nothing from nothing leaves nothing.
 
 ---
 spring:
   profiles: red
-lucky: 
+today: 
   wod: Today's word is anger.  Red can incite anger.
 
 ---
 spring:
   profiles: blue
-lucky: 
+today: 
   wod: Today's word is clouds.  Clouds float in the blue sky.
