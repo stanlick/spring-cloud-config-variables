@@ -4,4 +4,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8002
 
-theGlobalProperty=All apps should see this global property
+theGlobalProperty : All apps should see this global property
