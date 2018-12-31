@@ -13,6 +13,7 @@ theGlobalProperty : All apps should see this global property
 ---
 spring:
   profiles: default
+  url : DEFAULT
 ...
 
 ---
