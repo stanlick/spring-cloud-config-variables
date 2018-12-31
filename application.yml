@@ -1,5 +1,5 @@
 ---
-###  This will allow any cloud client to gain access to the discovery server
+###  This will allow any cloud client to gain access to the discovery server (Service Rgistry)
 eureka:
   client:
     serviceUrl:
