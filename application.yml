@@ -18,9 +18,11 @@ spring:
 ---
 spring:
   profiles: red
+  url : red
 ...
 
 ---
 spring:
   profiles: blue
+  url : blue
 ...
