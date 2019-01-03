@@ -13,17 +13,20 @@ theGlobalProperty : All apps should see this global property
 ---
 spring:
   profiles: default
-  url : DEFAULT
+  
+url : DEFAULT
 ...
 
 ---
 spring:
   profiles: red
-  url : red
+  
+url : red
 ...
 
 ---
 spring:
   profiles: blue
-  url : blue
+  
+url : blue
 ...
