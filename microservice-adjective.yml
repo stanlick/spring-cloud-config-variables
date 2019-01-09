@@ -1,6 +1,6 @@
 ---
 spring:
-  profiles: default
+  profiles: 
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
