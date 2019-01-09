@@ -1,6 +1,9 @@
 ---
+words: scott, jennifer, tyler
+
+---
 spring:
-  profiles: 
+  profiles: lower
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
