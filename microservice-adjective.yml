@@ -1,4 +1,6 @@
 ---
+spring:
+  profiles: default
 words: scott, jennifer, tyler
 
 ---
