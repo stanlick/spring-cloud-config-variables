@@ -8,6 +8,7 @@ eureka:
   instance:
       leaseRenewalIntervalInSeconds: 1
       leaseExpirationDurationInSeconds: 2
+        instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
 
 theGlobalProperty : All apps should see this global property
 ...
